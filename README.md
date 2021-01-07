@@ -1,7 +1,8 @@
 EveryCheese
 ==============================
 
-The Ultimate Cheese Index!
+The Ultimate Cheese Index! This project was completed while reading the book named "A Wedge of Django: Covers Python 3.8 and Django 3.x" By Daniel and Audrey Feldroy
+
 
 ### Quick setup
 
